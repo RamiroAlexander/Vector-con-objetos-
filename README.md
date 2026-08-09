@@ -2,8 +2,7 @@
 
 Este programa en C++ permite gestionar una lista de productos junto con sus respectivos precios. Utiliza vectores (vector) para almacenar y organizar la información, permitiendo agregar nuevos productos, eliminar elementos, calcular el precio promedio y determinar cuál es el producto de mayor precio.
 
-## Ejecución del código: A continuación, se muestran las evidencias de la ejecución del programa y los resultados obtenidos.
-
+## Ejecución del código:
 
 <img width="1049" height="1406" alt="image" src="https://github.com/user-attachments/assets/d204f741-2fe3-40f1-923c-30999b3528f4" />
 
